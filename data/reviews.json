@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "102",
+    "review": "good app to use",
+    "rating": "4",
+    "username": "sam@4"
+  },
+  {
+    "productId": "1123vebnth@13",
+    "review": "bestest app",
+    "rating": "5",
+    "username": "aakas_hsingh13"
+  },
+  {
+    "productId": "2134",
+    "review": "amazing app",
+    "rating": "5",
+    "username": "veb@"
+  },
+  {
+    "productId": "1234",
+    "review": "good",
+    "rating": "5",
+    "username": "aaa"
+  },
+  {
+    "productId": "111",
+    "review": "ok",
+    "rating": "4",
+    "username": "asd"
+  }
+]
