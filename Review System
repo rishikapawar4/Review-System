@@ -1,0 +1,2 @@
+Product Review System allows users to submit and view reviews and ratings for products. The front-end is built using HTML, CSS, and JavaScript to create a user-friendly interface, 
+while the backend stores review data in a JSON file for easy retrieval. The system fetches reviews via an API and displays them dynamically. This setup ensures efficient handling of user feedback with a focus on seamless interaction.
